@@ -26,7 +26,7 @@ Trackizer App is a powerful tool designed to help individuals easily manage thei
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mianasadali1/expense_manager_app_mian_speaks.git`
+1. Clone the repository: `https://github.com/thanushrajmm/Trackizer-Android-App.git`
 2. Open Android Studio.
 3. Select "Open an Existing Project" from the welcome screen.
 4. Navigate to the cloned repository location and select the project's root folder.
