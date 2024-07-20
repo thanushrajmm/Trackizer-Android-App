@@ -35,6 +35,6 @@ Trackizer App is a powerful tool designed to help individuals easily manage thei
 ## Usage
 
 1. Connect an Android device or start an emulator.
-2. Build and run the Expense Manager App project from Android Studio.
+2. Build and run the Trackizer App project from Android Studio.
 3. Access the application on your Android device or emulator to start managing your expenses by adding, categorizing, and analyzing them using the available features.
 
