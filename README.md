@@ -2,7 +2,7 @@
 
 ## Description
 
-Trackizer App is a powerful tool designed to help individuals and businesses easily manage their expenses. It provides a user-friendly interface and robust functionality to track, categorize, and analyze income or expenses efficiently.
+Trackizer App is a powerful tool designed to help individuals easily manage their expenses. It provides a user-friendly interface and robust functionality to track, categorize, and analyze income or expenses efficiently.
 
 - Integrated Realm database for data storage.
 - Implemented MVVM Architecture for a clean and organized codebase.
